@@ -1,0 +1,7 @@
+http://www.jqueryui.org.cn/demo/       Jqury中文网
+
+https://api.hcharts.cn/   图形（饼状图、折线、柱状图）
+
+http://www.easyicon.net/    图标大全
+
+http://www.iconfont.cn/  阿里图标大全
